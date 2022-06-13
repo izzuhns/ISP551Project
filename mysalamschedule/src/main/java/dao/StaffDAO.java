@@ -10,13 +10,7 @@ import java.util.List;
 
 import model.Staff;
 
-/**
- * AbstractDAO.java This DAO class provides CRUD database operations for the
- * table users in the database.
- * 
- * @author Ramesh Fadatare
- *
- */
+
 public class StaffDAO {
 	private String jdbcURL = "jdbc:postgresql://ec2-52-73-184-24.compute-1.amazonaws.com:5432/detss51crqfso1";
 	private String jdbcUsername = "xnxlvtplroyzmo";
