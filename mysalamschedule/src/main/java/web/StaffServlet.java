@@ -15,10 +15,9 @@ import dao.StaffDAO;
 import model.Staff;
 
 /**
- * ControllerServlet.java
  * This servlet acts as a page controller for the application, handling all
  * requests from the user.
- * @email Ramesh Fadatare
+
  */
 
 @WebServlet("/")
